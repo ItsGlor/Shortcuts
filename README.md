@@ -2,6 +2,7 @@
 
 ## Table of Contents   
 - [Clipboard](#clipboard)
+- [Get Shortcut URL](#get-shortcut-url)
 - [Get Youtube RSS Feed](#get-youtube-rss-feed)
 
 ## Clipboard
