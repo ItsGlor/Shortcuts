@@ -15,7 +15,7 @@ You can run/open a shortcut from a link (e.g. `shortcuts://run-shortcut?name=` O
 - **[Version 07082024](https://www.icloud.com/shortcuts/13ea417866d545199c87786846926a86)**
 
 ## Get Youtube RSS Feed
-Get rss feeds for channels or playlists & paste into your favorite reader app.  
+Get rss feeds for channels or playlists & paste into your favorite reader app. Needs the [Actions app](https://apps.apple.com/us/app/actions/id1586435171) (FREE).    
   
 - **[Version 03242025](https://www.icloud.com/shortcuts/835790b3d9b749d09cf-b484e603801d)**: Per user feedback, I added an alert that lets the user know that the feed URL has been copied to the clipboard and is ready to be pasted into your chosen feed reader.
 <!--stackedit_data:
