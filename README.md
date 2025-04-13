@@ -10,7 +10,7 @@ Clipboard Manager that uses the iOS Files app to store clippings.
 - **[Version 07082024](https://www.icloud.com/shortcuts/dce105093273461b81ab2add7340ec92)**
 
 ## Get Shortcut URL
-You can run/open a shortcut from a link (e.g. shortcuts://run-shortcut?name= OR shortcuts://open-shortcut?name=). This shortcut gets a list of your installed shortcuts & lets you choose one & then choose which URL you want.
+You can run/open a shortcut from a link (e.g. _shortcuts://run-shortcut?name=_ OR _shortcuts://open-shortcut?name=_). This shortcut gets a list of your installed shortcuts & lets you choose one & then choose which URL you want.
   
 - **[Version 07082024](https://www.icloud.com/shortcuts/13ea417866d545199c87786846926a86)**
 
