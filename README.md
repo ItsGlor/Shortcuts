@@ -1,4 +1,5 @@
 # My iOS Shortcuts
+For feedback or questions on my shortcuts, feel free to submit an issue on this repo.
 
 ## Table of Contents   
 - [Clipboard](#clipboard)
