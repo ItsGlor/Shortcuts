@@ -16,7 +16,9 @@ Clipboard Manager that uses the iOS Files app to store clippings.
 ## Get Shortcut URL
 You can run/open a shortcut from a link (e.g. `shortcuts://run-shortcut?name=` OR `shortcuts://open-shortcut?name=`).  
   
-This shortcut gets a list of your installed shortcuts, has you choose one, then has you choose which URL you want, & then, finally, it copies your chosen URL to the clipboard. Uses the [Toolbox Pro](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977) app to sort the list of shortcuts alphabetically, but it's not absolutely necessary to function; it just makes it easier to find the shortcut you want. 
+This shortcut gets a list of your installed shortcuts, has you choose one, then has you choose which URL you want, & then, finally, it copies your chosen URL to the clipboard. 
+  
+Uses the [Toolbox Pro](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977) app to sort the list of shortcuts alphabetically, but it's not absolutely necessary to function; it just makes it easier to find the shortcut you want. 
   
 #### Changelog:
 - **[Version 04132025](https://www.icloud.com/shortcuts/97b0a26e8eb84c7da4f68d75822a59f5)**: Updated contact info in comment box.
