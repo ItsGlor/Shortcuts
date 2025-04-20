@@ -1,5 +1,5 @@
 # My iOS Shortcuts
-For feedback or questions on my shortcuts, feel free to join the discussions.
+For feedback or questions on my shortcuts, feel free to join in the [discussions](https://github.com/ItsGlor/Shortcuts/discussions).
 
 ## Table of Contents   
 - [Clipboard](#clipboard)
